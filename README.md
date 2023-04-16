@@ -1,2 +1,2 @@
 # Hikari-App
-A multi-platform App developed specifically for HikariCMS
+A multi-platform App developed specifically for HikariCMS based on Flutter
